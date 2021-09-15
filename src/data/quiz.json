@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "question": "Blender es:",
+      "choices": ["Herramienta de código abierto", "Framework de javaScript", "Editor de código", "Una página web"],
+      "answer": "Herramienta de código abierto"
+    },
+    {
+      "question": "¿En Blender podemos modelar en 3D?",
+      "choices": ["Verdadero", "Falso"],
+      "answer": "Verdadero"
+    },
+    {
+      "question": "En Blender podemos hacer:",
+      "choices": ["Código morse", "Una página web", "Animaciones"],
+      "answer": "Animaciones"
+    },
+    {
+      "question": "En el video anterior usamos Blender para:",
+      "choices": ["Desarrollar en Python", "Modelar en 3D", "Crear un juego", "Simular un viento"],
+      "answer": "Modelar en 3D"
+    },
+    {
+      "question": "Al momento de manipular un objeto lo podemos hacer en:",
+      "choices": ["Coordenada X", "Coordenada Y", "Coordenada Z", "Todas las anteriores"],
+      "answer": "Todas las anteriores"
+    },
+    {
+      "question": "Se dice que Blender es versátil",
+      "choices": ["Si", "No"],
+      "answer": "Si"
+    },
+    {
+      "question": "Para rotar un objeto:",
+      "choices": ["Seleccionamos y pulsamos la tecla X", "Seleccionamos y pulsamos la tecla Y", "Seleccionamos y pulsamos la tecla Z",
+         "Todas las anteriores son verdaderas"],
+      "answer": "Todas las anteriores son verdaderas"
+    },
+    {
+      "question": "Exiten dos modos:",
+      "choices": ["Objeto y edición", "Edición y video", "Objeto y audio", "Audio y video"],
+      "answer": "Objeto y edición"
+    },
+    {
+      "question": "En el video el objeto era:",
+      "choices": ["Un cilindro", "Un plano", "Un Cuadrado", "Un cubo"],
+      "answer": "Un cubo"
+    }
+  ]
+}
