@@ -16,6 +16,8 @@ const App = () => {
   const [showModal, setShowModal] = useState(false);
   const [time, setTime] = useState(0);
 
+
+
   useEffect(() => {
     if(step === 3) {
       clearInterval(interval);

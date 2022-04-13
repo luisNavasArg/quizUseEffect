@@ -1,50 +1,55 @@
 {
   "data": [
     {
-      "question": "Blender es:",
-      "choices": ["Herramienta de código abierto", "Framework de javaScript", "Editor de código", "Una página web"],
-      "answer": "Herramienta de código abierto"
+      "question": "¿React.createElement() es nativa de Javascript?",
+      "choices": ["Falso", "Verdadero"],
+      "answer": "Falso"
     },
     {
-      "question": "¿En Blender podemos modelar en 3D?",
-      "choices": ["Verdadero", "Falso"],
-      "answer": "Verdadero"
+      "question": "¿Qué herramienta se encarga de transpilar código XML?",
+      "choices": ["Babel", "React DOM", "JSX Editor", "Webpack"],
+      "answer": "Babel"
     },
     {
-      "question": "En Blender podemos hacer:",
-      "choices": ["Código morse", "Una página web", "Animaciones"],
-      "answer": "Animaciones"
+      "question": "¿Qué necesita un componente de clase para usar el método return?",
+      "choices": ["El método render()", "Las llaves { }","El constructor"],
+      "answer": "El método render()"
     },
     {
-      "question": "En el video anterior usamos Blender para:",
-      "choices": ["Desarrollar en Python", "Modelar en 3D", "Crear un juego", "Simular un viento"],
-      "answer": "Modelar en 3D"
+      "question": "En las siguientes opciones cuál No es una característica de un componente",
+      "choices": ["Finalmente escalable", "Reutilizables", "Fuertemente tipados"],
+      "answer": "Fuertemente tipados"
     },
     {
-      "question": "Al momento de manipular un objeto lo podemos hacer en:",
-      "choices": ["Coordenada X", "Coordenada Y", "Coordenada Z", "Todas las anteriores"],
-      "answer": "Todas las anteriores"
+      "question": "En el siguiente código: <Component {...props}/> ¿Cuáles de sus props estarán disponibles para utilizar?",
+      "choices": ["Solo props.children", "Todas aquellas pasadas al component", "Ninguna es correcta", "Las dos primeras son correctas"],
+      "answer": "Todas aquellas pasadas al component"
     },
     {
-      "question": "Se dice que Blender es versátil",
-      "choices": ["Si", "No"],
-      "answer": "Si"
+      "question": "¿Cuál de las siguientes opciones pertenece a una característica de una props?",
+      "choices": ["Reciben valor desde un componente hijo", "Son inmutables", "Pueden cambiar dentro de un component único", "Son mutables con setState()"],
+      "answer": "Son inmutables"
     },
     {
-      "question": "Para rotar un objeto:",
-      "choices": ["Seleccionamos y pulsamos la tecla X", "Seleccionamos y pulsamos la tecla Y", "Seleccionamos y pulsamos la tecla Z",
-         "Todas las anteriores son verdaderas"],
-      "answer": "Todas las anteriores son verdaderas"
+      "question": "¿En cuál empresa nació React?",
+      "choices": ["Twitter","Microsoft","Facebook", "Google"],
+      "answer": "Facebook"
     },
     {
-      "question": "Exiten dos modos:",
-      "choices": ["Objeto y edición", "Edición y video", "Objeto y audio", "Audio y video"],
-      "answer": "Objeto y edición"
+      "question": "const Juguito(props) ¿De qué modo se puese desestructurar esta propiedad? return Jugo de {props.fruta} con {props.extras}",
+      "choices": ["const Juguito(...props)", "const Juguito([fruta, extras])", "const Juguito(...fruta, extras)",
+         "const Juguito({fruta, extras})"],
+      "answer": "const Juguito({fruta, extras})"
     },
     {
-      "question": "En el video el objeto era:",
-      "choices": ["Un cilindro", "Un plano", "Un Cuadrado", "Un cubo"],
-      "answer": "Un cubo"
+      "question": "¿Cuál de los siguientes módulos NO viene por defecto al iniciar un proyecto con CRA?",
+      "choices": ["React Router", "babel", "Jest", "React DOM"],
+      "answer": "React Router"
+    },
+    {
+      "question": "¿Cuál de los siguientes Hooks es nativo de React?",
+      "choices": ["useFetch()", "useInput()", "useToggle()", "UseState"],
+      "answer": "UseState"
     }
   ]
 }
